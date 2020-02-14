@@ -1,0 +1,19 @@
+Generated File. Do not edit.
+
+[HEADER]
+Version|0.19t|$
+Arch|x86_64-msvc|$
+
+[PLUGINS]
+
+[INVALID]
+C:\Program Files (x86)\Adobe\Adobe Creative Cloud\Utils\npAdobeAAMDetect32.dll|$
+1569630798000|$
+C:\Program Files (x86)\Adobe\Adobe Creative Cloud\Utils\npAdobeAAMDetect64.dll|$
+1569630798000|$
+C:\Program Files\VideoLAN\VLC\npvlc.dll|$
+1565804226000|$
+C:\Program Files\Java\jre1.8.0_221\bin\plugin2\npjp2.dll|$
+1564979933198|$
+C:\Program Files\Java\jre1.8.0_221\bin\dtplugin\npdeployJava1.dll|$
+1564979932433|$
